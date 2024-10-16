@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="796.36749"
+   height="796.36749"
+   viewBox="0 0 796.36749 796.36749"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,1.3333333,795.03413)">
+    <g
+       id="g10">
+      <g
+         id="g12">
+        <path
+           d="m 86.8283,332.7761 31.4028,-17.4082 c 0.9839,-0.5451 1.7889,-2.044 1.7889,-3.3301 v -76.2151 c 0,-1.2861 -0.8053,-1.8921 -1.7889,-1.3468 l -31.4028,17.4082 c -0.9836,0.5451 -1.7886,2.0437 -1.7886,3.3298 v 76.2151 c 0,1.2864 0.805,1.8924 1.7886,1.3471"
+           style="fill:#ff720d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path14" />
+        <path
+           d="m 135.7214,360.8002 31.4028,-17.4081 c 0.9839,-0.5454 1.7887,-2.0441 1.7887,-3.3301 v -76.2152 c 0,-1.286 -0.8051,-1.8921 -1.7887,-1.3467 l -31.4028,17.4078 c -0.9839,0.5454 -1.7889,2.0441 -1.7889,3.3302 v 76.2151 c 0,1.2861 0.805,1.8921 1.7889,1.347"
+           style="fill:#00502a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path16" />
+        <g
+           id="g18">
+          <path
+             d="m 85.0397,293.3215 48.8928,28.0241 34.9804,-19.3912 -48.8929,-28.0242 z"
+             style="fill:#000000;fill-opacity:0.4;fill-rule:evenodd;stroke:none"
+             id="path20" />
+        </g>
+        <path
+           d="m 120.02,312.0378 v -38.1076 l 14.1228,8.0949 c -0.1341,0.402 -0.2103,0.8175 -0.2103,1.213 v 38.1075 l -14.1228,-8.0949 c 0.1341,-0.4016 0.2103,-0.8172 0.2103,-1.2129"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path22" />
+      </g>
+      <g
+         id="g24">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,190.8017,288.542)"
+           style="font-variant:normal;font-weight:500;font-size:80.119px;font-family:Emirates;-inkscape-font-specification:Emirates-Medium;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text28"><tspan
+             x="0 52.95866 103.11315 155.75134 205.90582 269.8407 320.07532"
+             y="0"
+             id="tspan26">HUDUMA </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,196.4203,249.9443)"
+           style="font-variant:normal;font-weight:500;font-size:34.62px;font-family:Emirates;-inkscape-font-specification:Emirates-Medium;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 8.8627195 30.56946 47.637119 69.309242 90.633499 111.9934 133.70013 154.29904 172.26682 189.57681 207.09454 215.95726 243.06471 251.92744 271.28003 289.2478 311.99313"
+             y="0"
+             id="tspan30">INSURANCE LIMITED </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
