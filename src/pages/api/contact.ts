@@ -1,6 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import emailjs from "emailjs-com";
-import "dotenv/config";
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method === "POST") {
