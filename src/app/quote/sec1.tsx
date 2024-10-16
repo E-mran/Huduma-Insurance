@@ -3,11 +3,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Button from "@/components/atoms/button";
 import { InputField } from "@/components/atoms/input";
-import Select from "@/components/atoms/select";
 import SelectMotor from "./selectMotor";
-
-const make = [];
-const model = [];
 
 const WhoWeAre = () => {
   const [type, setType] = useState("private");

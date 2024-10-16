@@ -1,5 +1,5 @@
 import Select from "@/components/atoms/select";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import carsjson from "./cars.json";
 
 interface CarsProps {
@@ -11,7 +11,7 @@ const allCars: CarsProps[] = carsjson;
 const allMakes = (): string[] => allCars.map((car) => car.make.toUpperCase());
 
 function getModels(make: string): string[] {
-  for (let car of allCars) {
+  for (const car of allCars) {
     if (car.make.toLowerCase() == make.toLowerCase()) return car.models;
   }
 
